@@ -1,0 +1,10 @@
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\bin\Debug\Repaso2.exe.config
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\bin\Debug\Repaso2.exe
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\bin\Debug\Repaso2.pdb
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\obj\Debug\Repaso2.csprojAssemblyReference.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\obj\Debug\Repaso2.Formularios.FrmSalarioV1.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\obj\Debug\Repaso2.Properties.Resources.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\obj\Debug\Repaso2.csproj.GenerateResource.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\obj\Debug\Repaso2.csproj.CoreCompileInputs.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\obj\Debug\Repaso2.exe
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Repaso2\obj\Debug\Repaso2.pdb
